@@ -1,0 +1,17 @@
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\bin\Debug\net6.0\Domain.dll
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\bin\Debug\net6.0\Entities.dll
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\bin\Debug\net6.0\Entities.pdb
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
