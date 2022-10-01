@@ -18,7 +18,7 @@ namespace Infrastructure.Context
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(ReturnConnectionString());
+                optionsBuilder.UseSqlServer("Data Source=HSCHERIC\\SQLEXPRESS; Initial Catalog=DbAPI_DDD; Integrated Security=True");
                 base.OnConfiguring(optionsBuilder);
             }
         }
@@ -28,11 +28,6 @@ namespace Infrastructure.Context
             builder.Entity<ApplicationUser>().ToTable("AspNetUsers").HasKey(t => t.Id);
 
             base.OnModelCreating(builder);
-        }
-
-        public string ReturnConnectionString()
-        {
-            return "Data Source=HSCHERIC\\SQLEXPRESS; Initial Catalog=DbAPI_DDD; Integrated Security=True";
         }
     }
 }
