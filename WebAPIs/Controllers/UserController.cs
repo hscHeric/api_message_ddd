@@ -75,7 +75,7 @@ namespace WebAPIs.Controllers
                 return Ok(result.Errors);
             }
 
-            //Geração e confirmação de um codigo para email.
+            //Geração e confirmação de um codigo de confirmação para email.
             var userId = await _userManager.GetUserIdAsync(user);
             var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);
             code = WebEncoders.Base64UrlEncode(Encoding.UTF8.GetBytes(code));
