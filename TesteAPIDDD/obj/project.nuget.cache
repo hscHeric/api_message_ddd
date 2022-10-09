@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c9BFUyPDwGIw9c0gk9sn3LHb7TuHwdVKmgfXxzHadnEGJFetSlrTFGpauyjtuQJefQmgo14o8W3enKNBzVmI7g==",
+  "dgSpecHash": "YJ5Tz4nX8x944kscMcyMk4gLQS4MUPQLUSMhV4OS9CUpAkU9Rl9XcFRTiHHif7tULABugq04U/EQEOeG13HLeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\heric\\Documents\\projetos\\Projeto API\\API_DDD\\TesteAPIDDD\\TesteAPIDDD.csproj",
+  "projectFilePath": "C:\\Users\\heric\\Documents\\Projetos\\api_message_ddd\\TesteAPIDDD\\TesteAPIDDD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\heric\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\heric\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.9\\microsoft.aspnetcore.cryptography.internal.6.0.9.nupkg.sha512",

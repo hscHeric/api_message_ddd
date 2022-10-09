@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heric\\Documents\\projetos\\Projeto API\\API_DDD\\TesteAPIDDD\\TesteAPIDDD.csproj": {}
+    "C:\\Users\\heric\\Documents\\Projetos\\api_message_ddd\\TesteAPIDDD\\TesteAPIDDD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heric\\Documents\\projetos\\Projeto API\\API_DDD\\Entities\\Entities.csproj": {
+    "C:\\Users\\heric\\Documents\\Projetos\\api_message_ddd\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heric\\Documents\\projetos\\Projeto API\\API_DDD\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\heric\\Documents\\Projetos\\api_message_ddd\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\heric\\Documents\\projetos\\Projeto API\\API_DDD\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\heric\\Documents\\Projetos\\api_message_ddd\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\heric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heric\\Documents\\projetos\\Projeto API\\API_DDD\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\heric\\Documents\\Projetos\\api_message_ddd\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heric\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,18 +73,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\heric\\Documents\\projetos\\Projeto API\\API_DDD\\TesteAPIDDD\\TesteAPIDDD.csproj": {
+    "C:\\Users\\heric\\Documents\\Projetos\\api_message_ddd\\TesteAPIDDD\\TesteAPIDDD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heric\\Documents\\projetos\\Projeto API\\API_DDD\\TesteAPIDDD\\TesteAPIDDD.csproj",
+        "projectUniqueName": "C:\\Users\\heric\\Documents\\Projetos\\api_message_ddd\\TesteAPIDDD\\TesteAPIDDD.csproj",
         "projectName": "TesteAPIDDD",
-        "projectPath": "C:\\Users\\heric\\Documents\\projetos\\Projeto API\\API_DDD\\TesteAPIDDD\\TesteAPIDDD.csproj",
+        "projectPath": "C:\\Users\\heric\\Documents\\Projetos\\api_message_ddd\\TesteAPIDDD\\TesteAPIDDD.csproj",
         "packagesPath": "C:\\Users\\heric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heric\\Documents\\projetos\\Projeto API\\API_DDD\\TesteAPIDDD\\obj\\",
+        "outputPath": "C:\\Users\\heric\\Documents\\Projetos\\api_message_ddd\\TesteAPIDDD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heric\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,8 +101,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\heric\\Documents\\projetos\\Projeto API\\API_DDD\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\heric\\Documents\\projetos\\Projeto API\\API_DDD\\Entities\\Entities.csproj"
+              "C:\\Users\\heric\\Documents\\Projetos\\api_message_ddd\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\heric\\Documents\\Projetos\\api_message_ddd\\Entities\\Entities.csproj"
               }
             }
           }
@@ -150,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

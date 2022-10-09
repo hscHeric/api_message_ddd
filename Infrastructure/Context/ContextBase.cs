@@ -18,7 +18,7 @@ namespace Infrastructure.Context
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source=HSCHERIC\\SQLEXPRESS; Initial Catalog=DbAPI_DDD; Integrated Security=True");
+                optionsBuilder.UseSqlServer("Data Source=Heric\\SQLEXPRESS; Initial Catalog=DbMessageAPI_DDD; Integrated Security=True");
                 base.OnConfiguring(optionsBuilder);
             }
         }

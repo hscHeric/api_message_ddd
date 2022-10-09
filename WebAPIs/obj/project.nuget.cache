@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GdfS9oTBLxpiRcMbc+c4UaOwv4+J5r4ZK+KvaBVO6K2boQZRVjU5ML2NNQ6qEOL3hKwWGBgRJim7+lMSzGaAMA==",
+  "dgSpecHash": "zpqaSzd3VWn18YZH8sNxaECXaJZc+IC2MCdETmI72H89+0Ll6IqJlRdEJLfr2sMHBuEu97JlgfBLEO4qE3smNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\heric\\Documents\\projetos\\Projeto API\\API_DDD\\WebAPIs\\WebAPIs.csproj",
+  "projectFilePath": "C:\\Users\\heric\\Documents\\Projetos\\api_message_ddd\\WebAPIs\\WebAPIs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\heric\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\heric\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

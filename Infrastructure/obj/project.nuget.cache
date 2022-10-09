@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WAMBzAzVC+5+Kq2YIXXFlGu09Iie3OWFus3IXvMem71NwVNXl9GL/sKJTmF0uNvF74TglK8w4kgk/hdaGEWVCA==",
+  "dgSpecHash": "FOgm38yb4Eok62JUYBUPfK59CO/8bHk9C92Rca9obyFS6y/jZxqPiXSd0iB0TDVimVuUW+L8MuWV5lQS8IQJjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\heric\\Documents\\projetos\\Projeto API\\API_DDD\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\heric\\Documents\\Projetos\\api_message_ddd\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\heric\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.9\\microsoft.aspnetcore.cryptography.internal.6.0.9.nupkg.sha512",
     "C:\\Users\\heric\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.9\\microsoft.aspnetcore.cryptography.keyderivation.6.0.9.nupkg.sha512",

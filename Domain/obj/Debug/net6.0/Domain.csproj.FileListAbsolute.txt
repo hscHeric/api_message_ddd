@@ -13,3 +13,18 @@ C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Domain\obj\Debug\net6.0\Do
 C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Users\heric\Documents\projetos\Projeto API\API_DDD\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\bin\Debug\net6.0\Entities.dll
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\bin\Debug\net6.0\Entities.pdb
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\heric\Documents\Projetos\api_message_ddd\Domain\obj\Debug\net6.0\ref\Domain.dll

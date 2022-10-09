@@ -1,4 +1,4 @@
-using Microsoft.VisualStudio.TestPlatform.CommunicationUtilities;
+using Entities.Entities;
 using Newtonsoft.Json;
 using System.Net.Http.Headers;
 using System.Text;
@@ -6,12 +6,12 @@ using System.Text;
 namespace TesteAPIDDD
 {
     [TestClass]
-    public class UnitTest1
+    public class MessageTest
     {
         public static string Token { get; set; }
 
         [TestMethod]
-        public void TestMethod1()
+        public void List()
         {
             var result = ApiPost("https://localhost:7131/api/ListMessage").Result;
 
@@ -26,8 +26,8 @@ namespace TesteAPIDDD
 
             using (var cliente = new HttpClient())
             {
-                string Login = "local@host.com";
-                string Password = "@LocalHost001";
+                string Login = "Local001@host.com";
+                string Password = "Local001@host.com";
 
                 var data = new
                 {
