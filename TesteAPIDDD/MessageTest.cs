@@ -11,6 +11,47 @@ namespace TesteAPIDDD
         public static string Token { get; set; }
 
         [TestMethod]
+        public void Add()
+        {
+            /*
+             *Esse teste cria uma mensagem com a data e horario de teste no banco de dados.
+             *Lembrar de implemetar um metodo para remover a mensagem.
+             *
+             *Caso usar lembrar de apagar manualmente.
+             */
+            var message = new
+            {
+                title = $"Data de teste: ${DateTime.Now.ToString("dd/MM/yyyy HH:mm")}"
+            };
+
+            var result = ApiPost("https://localhost:7131/api/AddMessage", message).Result;
+
+            var MessagesList = JsonConvert.DeserializeObject<Message[]>(result).ToList();
+
+            Assert.IsFalse(MessagesList.Any());
+        }
+
+        //[TestMethod]
+        //public void Delete()
+        //{
+        //    var message = new
+        //    {
+        //        title = $"Teste de deleção: ${DateTime.Now.ToString("dd/MM/yyyy HH:mm")}"
+        //    };
+
+        //    var postMessageResult = ApiPost("https://localhost:7131/api/AddMessage", message).Result;
+
+        //    var MessagesList = JsonConvert.DeserializeObject<Message[]>(postMessageResult).ToList();
+
+        //    var messegeToDelete = MessagesList.Where(x => x.Title == message.title);
+
+        //    var result = ApiPost("https://localhost:7131/api/DeleteMessage", message).Result;
+        //    var notifiesList = JsonConvert.DeserializeObject<Message[]>(result).ToList();
+
+        //    Assert.IsFalse(notifiesList.Any());
+        //}
+
+        [TestMethod]
         public void List()
         {
             var result = ApiPost("https://localhost:7131/api/ListMessage").Result;
